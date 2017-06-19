@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:18:5-47
+	android:versionName
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\yuetying\.android\build-cache\dfa0ce28653f472ee65b68044a31b17ddf881335\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\yuetying\.android\build-cache\59d92fd2349d2f09a7576978347570d078cbc3b2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\yuetying\.android\build-cache\7c3ab7d830492656a47d12b2d049e9e814248f7e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\yuetying\.android\build-cache\a0bf08d445223bae47cf62993caabc4f68033178\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\yuetying\.android\build-cache\d58e01c6e2e1d51bd64527ecf4da9fefbfafcc61\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\yuetying\.android\build-cache\1e27e5d06adebf11d1952251219ff04f994ad939\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\yuetying\.android\build-cache\fa71d0dc14066b9fec3a164225a1792b43185eac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\yuetying\.android\build-cache\8e273c120bfa7925bac9c6278722c26c56cd415c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\yuetying\.android\build-cache\d3b9bf5de2c745b835b2b2d81be5dbd49471b0c6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\yuetying\.android\build-cache\80716f29f6668af7030c4faf11aba2f033c27ed2\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\yuetying\.android\build-cache\d7580f2aa02826a5dc1db7030cdef5fc4316a168\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:31:9-45
+activity#com.example.android.camera2video.CameraActivity
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:33:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\yuetying\.android\build-cache\dfa0ce28653f472ee65b68044a31b17ddf881335\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\yuetying\.android\build-cache\59d92fd2349d2f09a7576978347570d078cbc3b2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\yuetying\.android\build-cache\7c3ab7d830492656a47d12b2d049e9e814248f7e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\yuetying\.android\build-cache\a0bf08d445223bae47cf62993caabc4f68033178\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\yuetying\.android\build-cache\d58e01c6e2e1d51bd64527ecf4da9fefbfafcc61\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\yuetying\.android\build-cache\1e27e5d06adebf11d1952251219ff04f994ad939\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\yuetying\.android\build-cache\fa71d0dc14066b9fec3a164225a1792b43185eac\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\yuetying\.android\build-cache\8e273c120bfa7925bac9c6278722c26c56cd415c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\yuetying\.android\build-cache\d3b9bf5de2c745b835b2b2d81be5dbd49471b0c6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\yuetying\.android\build-cache\80716f29f6668af7030c4faf11aba2f033c27ed2\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\yuetying\.android\build-cache\d7580f2aa02826a5dc1db7030cdef5fc4316a168\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\yuetying\.android\build-cache\dfa0ce28653f472ee65b68044a31b17ddf881335\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yuetying\Desktop\_FYP\Camera2Video\Application\src\main\AndroidManifest.xml
